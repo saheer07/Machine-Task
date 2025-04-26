@@ -1,0 +1,26 @@
+
+
+.odd {
+  background-color: blue;
+  color: black;
+  padding: 5px;
+  margin: 5px 0;
+  text-align: center;
+  
+}
+
+.even {
+  background-color: red;
+  color: white;
+  padding: 5px;
+  margin: 5px 0;
+  text-align: center;
+
+}
+
+
+.Number {
+  display: flex;
+  justify-content: center;
+ 
+}
